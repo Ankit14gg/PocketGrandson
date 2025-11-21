@@ -1,7 +1,3 @@
-Here’s a polished **README.md** template for your repository **PocketGrandson**. Feel free to adapt or expand it further as needed.
-
----
-
 # PocketGrandson
 
 A modern, lightweight web application built with TypeScript, JavaScript, HTML and Tailwind CSS — powered by Vite — designed for fast performance and seamless user experience.
